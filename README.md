@@ -1,1 +1,6 @@
-# Microservices-Architecture-Using-Node-js-
+# Microservices-Architecture-Using-Node-js-![Screenshot (26)](https://github.com/Mayuradlak123/Microservices-Architecture-Using-Node-js-/assets/99585635/57dffeae-ccf5-4caf-b1b4-51086366d97e)
+![Implementation of Multi Server using fast-gateway](https://github.com/Mayuradlak123/Microservices-Architecture-Using-Node-js-/assets/99585635/2d159bf5-68a0-4f01-887f-317b38b409a9)
+![Bookibg Service Server  ](https://github.com/Mayuradlak123/Microservices-Architecture-Using-Node-js-/assets/99585635/9565d456-cabd-4c85-96f8-d0b1d65aabf5)
+Verify the User Detail (https://github.com/Mayuradlak123/Microservices-Architecture-Using-Node-js-/assets/99585635/38f32e23-dc16-4761-9c7f-eb176f0e91d4)
+![Authentication Service ](https://github.com/Mayuradlak123/Microservices-Architecture-Using-Node-js-/assets/99585635/5764a112-dbea-4d17-bab2-db17d998fe8f)
+![Package Json ](https://github.com/Mayuradlak123/Microservices-Architecture-Using-Node-js-/assets/99585635/fbd14382-c498-4a55-83d1-c3a461884182)
